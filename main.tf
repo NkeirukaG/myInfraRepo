@@ -52,4 +52,3 @@ tags= {
     Name = "jenkins_elastic_ip"
   }
 }
-
